@@ -12,3 +12,11 @@ https://jaekimdev.github.io/Mini-ShoppingMall/
     * json
     * fethch - https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
 
+- PWA(Progressive Web Application)
+PWABuilder ⇢ https://www.pwabuilder.com/
+Workbox ⇢ https://developers.google.com/web/tools/workbox
+Maskable ⇢ https://maskable.app/
+
+Web.dev  ⇢ https://web.dev/install-criteria/
+
+PWABuilder Github ⇢https://github.com/pwa-builder/pwabuilder-web/blob/V2/src/assets/next-steps.md
