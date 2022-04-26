@@ -1,0 +1,11 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "jaekimdev.github",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "jaekimdev.github",
+  "start_url": "/",
+  "theme_color": "#ffffff"
+}
